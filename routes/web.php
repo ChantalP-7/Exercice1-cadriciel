@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\Exercice1Controller;
+use App\Http\Controllers\FlowerController;
 
 
 /*
@@ -16,10 +16,10 @@ use App\Http\Controllers\Exercice1Controller;
 |
 */
 
-Route::get('/', [Exercice1Controller::class, 'index']);
+Route::get('/', [FlowerController::class, 'index']);
 
-Route::get('/home', [Exercice1Controller::class, 'index']);
-Route::get('/about', [Exercice1Controller::class, 'about']);
-Route::get('/products', [Exercice1Controller::class, 'products']);
-Route::get('/store', [Exercice1Controller::class, 'store']);
-Route::post('/contact', [Exercice1Controller::class, 'contactForm']);
+Route::get('/home', [FlowerController::class, 'index']);
+Route::get('/about', [FlowerController::class, 'about']);
+Route::get('/products', [FlowerController::class, 'products']);
+Route::get('/store', [FlowerController::class, 'store']);
+Route::post('/contact', [FlowerController::class, 'contactForm']);

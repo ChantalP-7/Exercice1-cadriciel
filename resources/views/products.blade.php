@@ -1,3 +1,6 @@
+@extends('master')
+@section('title', 'About')
+@section('content')
 <section class="page-section">
             <div class="container">
                 <div class="product-item">
@@ -52,3 +55,4 @@
                 </div>
             </div>
         </section>
+@endsection('content')
