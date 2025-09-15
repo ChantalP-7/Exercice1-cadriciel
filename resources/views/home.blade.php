@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-
+@extends('master')
+@section('title', 'Accueil')
+    @section('content')
         <section class="page-section clearfix">
             <div class="container">
                 <div class="intro">
@@ -30,4 +31,5 @@
                 </div>
             </div>
         </section>
+@endsection('content')
         

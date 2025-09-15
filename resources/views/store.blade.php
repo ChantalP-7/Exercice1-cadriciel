@@ -1,3 +1,6 @@
+@extends('master')
+@section('title', 'About')
+@section('content')
 <section class="page-section cta">
             <div class="container">
                 <div class="row">
@@ -77,3 +80,4 @@
                 </div>
             </div>
         </section>
+@endsection('content')
