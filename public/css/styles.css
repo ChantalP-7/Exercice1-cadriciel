@@ -8037,15 +8037,20 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
   /*color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;*/
-  color: gold !important;
+  color: rgb(15, 22, 47, 0.9) !important;
+  text-shadow: 0px 1px 1px #fff;
   font-family: "Aref Ruqaa";
   font-size: 28px;
 }
 
 .blue {
   --bs-text-opacity: 1;
-  color: gold;
-  font-weight: 600;
+  color: rgb(255, 168, 38, 0.9);
+  text-shadow: 0.5px 0.5px 0px #fff;
+}
+
+.simple {
+  font-weight: 400;
 }
 
 .text-secondary {

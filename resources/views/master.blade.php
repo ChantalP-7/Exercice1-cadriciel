@@ -34,6 +34,7 @@
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/about">À propos</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/products">Produits</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/store">Boutique</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/contact">Contactez-nous</a></li>
                     </ul>
                 </div>
             </div>

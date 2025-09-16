@@ -7,14 +7,14 @@
                     <div class="product-item-title d-flex">
                         <div class="bg-faded p-5 d-flex ms-auto rounded">
                             <h2 class="section-heading mb-0">
-                                <span class="section-heading-upper">Blended to Perfection</span>
-                                <span class="section-heading-lower">Coffees & Teas</span>
+                                <span class="section-heading-upper">La passion des fleurs</span>
+                                <span class="section-heading-lower">Éclat - fraîcheur - beauté</span>
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-01.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/colour-5350257_1280.jpg" alt="..." />
                     <div class="product-item-description d-flex me-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">We take pride in our work, and it shows. Every time you order a beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, a refreshing iced herbal tea, or something as simple as a cup of speciality sourced black coffee, you will be coming back for more.</p></div>
+                        <div class="bg-faded p-5 rounded"><p class="mb-0">Nous sommes fières de notre travail, et cela se voit. Chaque fois que vous commandez un produit chez nous, nous vous garantissons une expérience inoubliable. Que ce soit notre célèbre bouquet de la mariée, une composition de fleurs sauvages ou un centre de table, nous sommes sûres que vous reviendrez</p></div>
                     </div>
                 </div>
             </div>
@@ -25,14 +25,15 @@
                     <div class="product-item-title d-flex">
                         <div class="bg-faded p-5 d-flex me-auto rounded">
                             <h2 class="section-heading mb-0">
-                                <span class="section-heading-upper">Delicious Treats, Good Eats</span>
-                                <span class="section-heading-lower">Bakery & Kitchen</span>
+                                <span class="section-heading-upper">Nos produits et services</span>
+                                <span class="section-heading-lower">Compositions florales & Ateliers divers</span>
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-02.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/pexels-amina-filkins-5414025.jpg" alt="..." />
                     <div class="product-item-description d-flex ms-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p></div>
+                        <div class="bg-faded p-5 rounded"><p class="mb-0">
+                            Bouquets de fleurs fraîches, compositions florales pour mariage, baptême ou réception, ou encore, des ateliers de création de bouquets (individuel ou en groupe) et des formations à l'art floral, techniques de composition, entretien des plantes, etc.</p></div>
                     </div>
                 </div>
             </div>
@@ -43,14 +44,14 @@
                     <div class="product-item-title d-flex">
                         <div class="bg-faded p-5 d-flex ms-auto rounded">
                             <h2 class="section-heading mb-0">
-                                <span class="section-heading-upper">From Around the World</span>
-                                <span class="section-heading-lower">Bulk Speciality Blends</span>
+                                <span class="section-heading-upper">À travers le monde</span>
+                                <span class="section-heading-lower">Sélection spéciale de bouquets</span>
                             </h2>
                         </div>
                     </div>
-                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-03.jpg" alt="..." />
+                    <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/flowers-3149495_640.jpg" alt="..." />
                     <div class="product-item-description d-flex me-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p></div>
+                        <div class="bg-faded p-5 rounded"><p class="mb-0">Voyager à travers le monde pour découvrir des nouvelles variété de fleurs est une fierté. En nous rendant visite, vous découvrirez toujours de nouvelles compositions florales du monde entier, principalement d'Hollande et du Japon. Nous vendons nos bouquets en petites ou grandes quantités. N'hésitez pas à nous rendre visite pour plus d'informations.</p></div>
                     </div>
                 </div>
             </div>
