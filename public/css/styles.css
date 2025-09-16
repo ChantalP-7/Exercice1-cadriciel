@@ -8036,7 +8036,16 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  /*color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;*/
+  color: gold !important;
+  font-family: "Aref Ruqaa";
+  font-size: 28px;
+}
+
+.blue {
+  --bs-text-opacity: 1;
+  color: gold;
+  font-weight: 600;
 }
 
 .text-secondary {
