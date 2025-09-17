@@ -19,7 +19,10 @@
     <body>
         <header>
             <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-upper text-primary mb-3">Les pétales d'Or</span>
+                <div class="d-flex d-flex align-items-center flex-row justify-content-center">
+                    <span class="logo-lower site-heading-upper text-primary mb-5">Les pétales d'Or</span>
+                    <img class="logo  mb-0 mb-lg-0" src="assets/img/watercolour-flowers-5188030_640.png" alt="..." />
+                </div>                
                 <span class="site-heading-lower blue">La poésie naît d’un pétale.</span>
             </h1>
         </header>

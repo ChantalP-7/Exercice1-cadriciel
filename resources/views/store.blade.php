@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'About')
+@section('title', 'Notre boutique')
 @section('content')
 <section class="page-section cta">
             <div class="container">

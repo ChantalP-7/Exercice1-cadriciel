@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'About')
+@section('title', 'Nos produits')
 @section('content')
 <section class="page-section">
             <div class="container">

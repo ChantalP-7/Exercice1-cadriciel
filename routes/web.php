@@ -17,9 +17,9 @@ use App\Http\Controllers\FlowerController;
 */
 
 Route::get('/', [FlowerController::class, 'index']);
-
 Route::get('/home', [FlowerController::class, 'index']);
 Route::get('/about', [FlowerController::class, 'about']);
 Route::get('/products', [FlowerController::class, 'products']);
 Route::get('/store', [FlowerController::class, 'store']);
+Route::get('/contact', [FlowerController::class, 'contact']);
 Route::post('/contact', [FlowerController::class, 'contactForm']);
