@@ -1,16 +1,18 @@
 @extends('master')
 @section('title', 'About')
 @section('content')
-<section class="page-section cta">
+<section class="page-contact page-section cta">
     <div class="row gx-4 gx-lg-5 justify-content-center">
         <div class="col-md-10 col-lg-8 col-xl-7">
             @isset($data)
+            <div class="text-contact">
                 <p><strong>Nom: </strong>{{ $data->name}}</p>
                 <p><strong>Courriel: </strong>{{ $data->email}}</p>
                 <p><strong>Téléphone: </strong>{{ $data->phone}}</p>
                 <p><strong>Message: </strong>{{ $data->message}}</p> 
+            </div>
             @else
-            <p>Tu veux rester en contact ? Rempli le formulaire ci-join pour nous envoyer un message et nous vous contacteron le plus tôt possible !</p>
+            <p class="text-contact">Tu veux rester en contact ? Remplis le formulaire ci-joint pour nous laisser un message et nous vous contacterons le plus tôt possible !</p>
             <div class="my-5">
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -61,7 +63,7 @@
                     <!-- an error submitting the form-->
                     <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Erreur de l'envoi !</div></div>
                     <!-- Submit Button-->
-                    <button class="btn btn-primary text-uppercase" type="submit">Envoyer</button>
+                    <button class="btn contact btn-primary text-uppercase" type="submit">Envoyer</button>
                 </form>
             </div>
             @endisset

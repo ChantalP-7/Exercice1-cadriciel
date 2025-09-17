@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>@yield('title')</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.png" />
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
@@ -34,7 +34,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/home">Accueil</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/about">À propos</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/about">Notre histoire</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/products">Produits</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/store">Boutique</a></li>
                         <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/contact">Contactez-nous</a></li>

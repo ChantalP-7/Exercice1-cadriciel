@@ -7,8 +7,8 @@
                     <div class="col-xl-9 mx-auto">
                         <div class="cta-inner bg-faded text-center rounded">
                             <h2 class="section-heading mb-5">
-                                <span class="section-heading-upper">Entrez</span>
-                                <span class="section-heading-lower">Nous sommes ouverts</span>
+                                <span class="font-size-big section-heading-upper ">Entrez, ne soyez pas timides</span>
+                                <span class="section-heading-lower mt-3">Nous sommes ouverts</span>
                             </h2>
                             <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
                                 <li class="list-unstyled-item list-hours-item d-flex">
